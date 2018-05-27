@@ -1,4 +1,12 @@
-let student = {
+let car = {
+    make: 'Ford',
+   model: 'Mustang',
+   year: '1964',
+};
+console.log(car);
+
+
+/*let student = {
     track: "Front-end Developer"
 
 }
@@ -11,3 +19,4 @@ student.age = age;
 
 student.track = "UX Designer";
 console.log(student);
+*/
